@@ -51,4 +51,4 @@ $ find_largest_directories.sh /usr
 
 ```
 
-I'm posting this because I perpetually forget how I last solved this problem, and these scripts seem worth preserving.
+I'm posting this because I perpetually forget how I last solved this problem, and these scripts seem worth preserving. If you place the scripts in /usr/local/bin, in a normal Linux install they will become accessible everywhere.
