@@ -25,6 +25,30 @@ $ find_largest_files.sh /usr/bin
       13,415,744 /usr/bin/qemu-system-riscv32
       13,379,440 /usr/bin/qemu-system-mips64el
       13,335,472 /usr/bin/qemu-system-mips64
+      
+$ find_largest_directories.sh /usr
+
+18,474,883,866 /usr
+   8,167,913,587 /usr/lib
+   7,633,096,421 /usr/share
+   3,312,048,166 /usr/lib/x86_64-linux-gnu
+   2,315,039,555 /usr/share/doc
+   1,189,386,840 /usr/bin
+   1,039,323,441 /usr/lib/python3
+   1,039,319,345 /usr/lib/python3/dist-packages
+     886,306,651 /usr/local
+     848,560,246 /usr/local/lib
+     825,832,453 /usr/local/lib/python3.9
+     825,828,357 /usr/local/lib/python3.9/dist-packages
+     757,834,640 /usr/share/locale
+     647,837,200 /usr/lib/modules
+     555,522,050 /usr/share/doc/sagemath
+     555,450,733 /usr/share/doc/sagemath/html
+     491,399,004 /usr/share/doc/gnuradio-doc
+     491,338,903 /usr/share/doc/gnuradio-doc/html
+     416,216,819 /usr/share/texlive
+     412,461,049 /usr/share/texlive/texmf-dist
+
 ```
 
 I'm posting this because I perpetually forget how I last solved this problem, and these scripts seem worth preserving.
