@@ -1,6 +1,6 @@
 # Shell-scripts-search-for-large-directories-and-or-files
 
-THese simple shell scripts find largest files and / or directories on a Linux system. They format the results in a useful way, sorted by size and thousands are delimited by your locale's delimited. Example:
+These simple shell scripts find largest files and / or directories on a Linux system. They format the results in a useful way, sorted by size and thousands are delimited by your locale's delimited. Example:
 
 ```
 $ find_largest_files.sh /usr/bin
