@@ -28,7 +28,7 @@ $ find_largest_files.sh /usr/bin
       
 $ find_largest_directories.sh /usr
 
-18,474,883,866 /usr
+  18,474,883,866 /usr
    8,167,913,587 /usr/lib
    7,633,096,421 /usr/share
    3,312,048,166 /usr/lib/x86_64-linux-gnu
