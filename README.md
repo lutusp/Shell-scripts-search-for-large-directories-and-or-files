@@ -50,5 +50,6 @@ $ find_largest_directories.sh /usr
      412,461,049 /usr/share/texlive/texmf-dist
 
 ```
+If you place the scripts in /usr/local/bin, in a normal Linux install they will become accessible everywhere.
 
-I'm posting this because I perpetually forget how I last solved this problem, and these scripts seem worth preserving. If you place the scripts in /usr/local/bin, in a normal Linux install they will become accessible everywhere.
+I'm posting this because I perpetually forget how I last solved this problem, and these scripts seem worth preserving. 
